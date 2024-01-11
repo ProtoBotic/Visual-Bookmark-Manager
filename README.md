@@ -12,6 +12,8 @@ Features
 
 i plan to add the option for users to use a server so you can see your bookmarks on multiple devices, but for now it is a local only and you have to save before you close the Bookmark Manager. autosave and local cache will be added shortly... Probably.
 
+there are still a couple visual bugs but im working on those now
+
 
 ![Screenshot 2024-01-11 at 15-33-23 Bookmark Manager](https://github.com/ProtoBotic/Visual-Bookmark-Manager/assets/155253484/7a1d621e-6780-445a-b1ec-f13417611009)
 
